@@ -7,9 +7,7 @@
 
 <h1 align="center">Hi👋, I am ANUJJ P V </h1>
 <p align="center">
-<img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
 <h1><b> WELCOME TO MY PROFILE</b></p></h1>
-<img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"  width="130px" height="150px">
 </p>
 
 
@@ -19,9 +17,6 @@ I am <b>ANUJJ</b>, DevOps & Platform Engineer with over 2.5 years of experience 
 </p>
 
 
-<p align = 'right'>
-<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300px">
-</p>
 
 <hr>
 <p align='left'>
@@ -90,23 +85,6 @@ I am <b>ANUJJ</b>, DevOps & Platform Engineer with over 2.5 years of experience 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-<div align="center">
-<h1>✍🏻 Read My Books on <a href = "https://www.wattpad.com/story/351018092-two-flavors-of-solitude?utm_source=web&utm_medium=email&utm_content=share_myworks" >@Wattpad</a></h1>
- 
-
- 
-<hr>
 
 
 
