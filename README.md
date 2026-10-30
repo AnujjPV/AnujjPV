@@ -69,9 +69,6 @@ I am <b>ANUJJ</b>, DevOps & Platform Engineer with over 2.5 years of experience 
  
 </div>
 
-<p align='right'>
-<img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif"  > 
-</p>
 <hr>
 
 
