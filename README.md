@@ -41,9 +41,17 @@ I am <b>ANUJJ</b>, DevOps & Platform Engineer with over 2.5 years of experience 
 <hr>
 
 
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/DevOps-ED8B00?style=for-the-badge&logo=devops"><img alt="Static Badge" src="https://img.shields.io/badge/AWS-%2525237F52FF?style=for-the-badge&logo=amazonaws"><img alt="Static Badge" src="https://img.shields.io/badge/Linux-3DDC84?style=for-the-badge&logo=linux"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/Jenkins-ED8B00?style=for-the-badge&logo=jenkins"><img alt="Static Badge" src="https://img.shields.io/badge/Ansible-%2523E34F26?style=for-the-badge&logo=ansible"><img alt="Static Badge" src="https://img.shields.io/badge/Terraform-039BE5?style=for-the-badge&logo=terraform"> <img alt="Static Badge" src="https://img.shields.io/badge/Maven-217346?style=for-the-badge&logo=maven"><img alt="Static Badge" src="https://img.shields.io/badge/Kubernetes(K8s)-%2523F05033?style=for-the-badge&logo=kubernetes"><img alt="Static Badge" src="https://img.shields.io/badge/OpenCV-%2523777BB4?style=for-the-badge&logo=opencv"><img alt="Static Badge" src="https://img.shields.io/badge/%20Red%20Hat-039BE5?style=for-the-badge&logo=redhat"><img alt="Static Badge" src="https://img.shields.io/badge/VMware-%252300f?style=for-the-badge&logo=vmware"><img alt="Static Badge" src="https://img.shields.io/badge/Bash_Scripting-%252307405e?style=for-the-badge&logo=bashscripting">
-<img alt="Static Badge" src="https://img.shields.io/badge/Snapshots-34A853?style=for-the-badge&logo=snapshots"><img alt="Static Badge" src="https://img.shields.io/badge/EFS(Elastic%20File%20System)-B7472A?style=for-the-badge&logo=efs"><img alt="Static Badge" src="https://img.shields.io/badge/S3(Simple%20Storage%20Service)-217346?style=for-the-badge&logo=amazons3"><img alt="Static Badge" src="https://img.shields.io/badge/Amazon%20ECS-2B579A?style=for-the-badge&logo=amazonecs"><img alt="Static Badge" src="https://img.shields.io/badge/Amazon_EC2-2B579A?style=for-the-badge&logo=amazonec2"> <img alt="Static Badge" src="https://img.shields.io/badge/Flask-3670A0?style=for-the-badge&logo=flask">
-<img alt="Static Badge" src="https://img.shields.io/badge/Docker-%252300599C?style=for-the-badge&logo=docker">
+### 🛠️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
+
+### 🔄 CI/CD & Observability
+![ArgoCD](https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=flat-square&logo=argo&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat-square&logo=jenkins&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white)
 
 
 <hr>
