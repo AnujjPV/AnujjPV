@@ -14,8 +14,7 @@
 
 
 <p align="center" width="150px"> 
-I am <b>ANUJJ</b>, an aspiring Cloud Computing Professional based in Bangalore, Karnataka. Holding a Bachelor of Science degree in <b>Computer Technology</b>, I have cultivated a strong academic foundation in the field. Additionally, I have pursued a comprehensive <b>Cloud Computing course</b> focused on Linux, AWS (Amazon Web Services), and DevOps, demonstrating my commitment to staying abreast of industry-leading technologies. This specialized training has equipped me with practical skills in cloud infrastructure management, deployment automation, and <b>DevOps practices.</b> 
-To secure a challenging <b>DevOps Engineer</b> role in a dynamic and innovative organization where I can utilize my technical skills and knowledge to contribute to the continuous delivery and improvement of software applications, while expanding my experience in cloud computing and automation.
+I am <b>ANUJJ</b>, DevOps & Platform Engineer with over 2.5 years of experience automating distributed cloud infrastructure, architecting GitOps deployment pipelines, and scaling containerized microservices. Proficient in AWS, Kubernetes, Terraform, ArgoCD, and Python-driven automation. Track record of reducing deployment cycle times, building autonomous incident triage tooling, and maintaining 99.9% uptime across production environments.
                              
 </p>
 
@@ -27,10 +26,9 @@ To secure a challenging <b>DevOps Engineer</b> role in a dynamic and innovative 
 <hr>
 <p align='left'>
 
-- 🌱 I’m currently exploring and learning in depth <b>AWS|DevOps</b> 😁<br>
-- ✨ Also focusing on problem-solving and <b>Python</b> <br>
-- 👯 Learning & Contributing to <b>Open Source Project</b> 😃<br>
-- 🥅 <i><b>2024 Goals</b></i>: Get a good Job..❤️ <br>
+- 🛠️ Designing automated CI/CD release pipelines and managing multi-region AWS infrastructure.<br>
+- 🤝 Contributing to open-source developer tooling and Terraform automation modules. <br>
+- 🎯 Currently scaling automated infrastructure & exploring Kubernetes operators / platform reliability. <br>
 
 </p>
 
