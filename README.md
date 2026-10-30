@@ -1,4 +1,4 @@
-<img align='center' src= "images/header.png">
+
 <div align="center">
 <a href = "https://drive.google.com/file/d/1YeKphYAMdXwv0ZKrBBBXsxCpcnC4rgXI/view?usp=sharing" ><img src="https://img.shields.io/badge/My_CV-Anujj-blue?style=for-the-badge" width="200" height="35"></a>
 <a href = "https://anujjpv.github.io/Portfolio.github.io/" ><img src="https://img.shields.io/badge/Website-My_Portfolio-red?style=for-the-badge" width="220"height="35"></a>
